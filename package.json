@@ -1,0 +1,30 @@
+{
+  "name": "allconnect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cli-tool": "index.js"
+  },
+  "keywords": [
+    "NextJS",
+    "Typescript",
+    "Template",
+    "ShadcnUI",
+    "Prisma"
+  ],
+  "author": "Rabindra nath mahato",
+  "license": "ISC",
+  "description": "NextJS Starter Kit which provide all features which are reqiured to build a application example Payment , Email , UI library , Routes Creation, Database connnection, Authentication and many more features.",
+  "dependencies": {
+    "allconnect": "^1.0.0",
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.12.0",
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.2.0",
+    "ora": "^8.1.1"
+  }
+}
